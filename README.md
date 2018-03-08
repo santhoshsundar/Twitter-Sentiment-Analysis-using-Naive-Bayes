@@ -7,6 +7,7 @@ The training dataset is split into files containing a processed version of tweet
 
 The test dataset is assorted collection from STS_Test (data/test_dataset.csv) and 100 3cixty reviews in (data/3cixty/3cixty_test_dataset.csv).
 
+Resources folder contains utility texts for preprocessing.
 
 Requirements -------
 
