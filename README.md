@@ -9,7 +9,8 @@ The test dataset is assorted collection from STS_Test (data/test_dataset.csv) an
 
 
 Requirements -------
+
 The classifier works for python 3.6 
 
 # Running the classifier:
-ausage: python NaiveByes.py
+usage: python NaiveByes.py
