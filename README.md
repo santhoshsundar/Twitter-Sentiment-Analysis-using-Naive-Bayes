@@ -14,4 +14,4 @@ Requirements -------
 The classifier works for python 3.6 
 
 # Running the classifier:
-usage: python NaiveByes.py
+usage: python NaiveBayes.py
